@@ -1,0 +1,15 @@
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\bin\Debug\net9.0\FlatFileRepo.exe
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\bin\Debug\net9.0\FlatFileRepo.deps.json
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\bin\Debug\net9.0\FlatFileRepo.runtimeconfig.json
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\bin\Debug\net9.0\FlatFileRepo.dll
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\bin\Debug\net9.0\FlatFileRepo.pdb
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\obj\Debug\net9.0\FlatFileRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\obj\Debug\net9.0\FlatFileRepo.AssemblyInfoInputs.cache
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\obj\Debug\net9.0\FlatFileRepo.AssemblyInfo.cs
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\obj\Debug\net9.0\FlatFileRepo.csproj.CoreCompileInputs.cache
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\obj\Debug\net9.0\FlatFileRepo.sourcelink.json
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\obj\Debug\net9.0\FlatFileRepo.dll
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\obj\Debug\net9.0\refint\FlatFileRepo.dll
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\obj\Debug\net9.0\FlatFileRepo.pdb
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\obj\Debug\net9.0\FlatFileRepo.genruntimeconfig.cache
+C:\It-Sikkerhed\Softwaresikkerhed\it_sikkerhed_2026f\Softwaresikkerhed\10-2-26\FlatFileRepo\FlatFileRepo\obj\Debug\net9.0\ref\FlatFileRepo.dll
