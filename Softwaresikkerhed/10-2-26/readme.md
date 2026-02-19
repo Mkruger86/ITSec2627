@@ -86,15 +86,16 @@ Vi tester i 3 lag:
 ### 1) Name (First_Name, Last_Name)
 Regler i kode:
 - Må ikke være null/empty/whitespace
-- Længde skal være 1..25 (bemærk: implementeringen har en redundant check, men intentionen er 1..25)
+- Længde skal være mellem 1..25
 
 | Inputklasse | Beskrivelse | Gyldig? | Relevant test-id |
 |---|---|---:|---|
 | N1 | `null` | Nej | TC-N-01 |
 | N2 | `""` (tom) | Nej | TC-N-02 |
 | N3 | `"   "` (whitespace) | Nej | TC-N-03 |
-| N4 | længde 1..25 | Ja | TC-N-04 |
-| N5 | længde >25 | Nej | TC-N-05 |
+| N3 | længde <1 | Nej | TC-N-04 |
+| N5 | længde 1..25 | Ja | TC-N-05 |
+| N6 | længde >25 | Nej | TC-N-06 |
 
 ### 2) Address + Street_Number
 Regler i kode:
