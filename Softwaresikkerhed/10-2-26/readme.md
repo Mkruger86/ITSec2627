@@ -1,5 +1,5 @@
 # FlatFileRepo – Flat-file JSON brugerdatabase
-***Skrevet i C#, Testsmiljøet i VS's indbyggede MSTest***
+***Skrevet i C#, Testmiljøet under VS's indbyggede MSTest***
 
 Brugerobjekt:
 `{person_id, first_name, last_name, address, street_number, password, enabled}`  
