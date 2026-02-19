@@ -1,4 +1,5 @@
-# FlatFileRepo – Flat-file JSON brugerdatabase (C#)
+# FlatFileRepo – Flat-file JSON brugerdatabase
+*Skrevet i C#, Testsmiljøet i VS's indbyggede MSTest*
 Brugerobjekt:
 `{person_id, first_name, last_name, address, street_number, password, enabled}`  
 (I koden: `Person_Id, First_Name, Last_Name, Address, Street_Number, Password, Enabled`)
@@ -45,6 +46,8 @@ Begrænsninger:
 - `Add(person)` (validerer + skriver fil)
 - `Update(id, updated)` (validerer + skriver fil)
 - `Remove(id)` (skriver fil)
+
+### Simpel GUI til CRUD operationer
 
 ---
 
