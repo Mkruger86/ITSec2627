@@ -49,7 +49,7 @@ Begrænsninger:
 - `Remove(id)` (skriver fil)
 
 ### Simpel GUI (i konsollen) til CRUD operationer
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b3a5c1a0-7ce4-4729-a94d-21efe37ced5e" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b3a5c1a0-7ce4-4729-a94d-21efe37ced5e" />
 <img width="165" height="47" alt="image" src="https://github.com/user-attachments/assets/aed5a988-7e81-4d39-af74-2d009b82eeaa" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ae8ddd31-f545-4ee0-bb26-5e9fe7dd0357" />
 ---
