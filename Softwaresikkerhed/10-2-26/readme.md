@@ -48,8 +48,8 @@ Begrænsninger:
 - `Update(id, updated)` (validerer + skriver fil)
 - `Remove(id)` (skriver fil)
 
-### Simpel GUI til CRUD operationer
-
+### Simpel GUI (i konsollen) til CRUD operationer
+<img width="622" height="477" alt="image" src="https://github.com/user-attachments/assets/ae8ddd31-f545-4ee0-bb26-5e9fe7dd0357" />
 ---
 
 ## Test Pyramiden (hvilke testtyper vi bruger)
