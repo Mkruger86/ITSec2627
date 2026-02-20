@@ -53,7 +53,7 @@ Kan være hensigtsmæssig når:
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ae8ddd31-f545-4ee0-bb26-5e9fe7dd0357" />
 ---
 
-## Test Pyramiden (hvilke testtyper vi bruger)
+## Test Pyramiden
 Vi tester i 3 lag:
 
 1. **Unit tests (mange)**
@@ -71,7 +71,7 @@ Vi tester i 3 lag:
 
 ---
 
-## CRUD(L) – krav og testmål
+## CRUD(L)
 | Operation | Funktion | Forventning |
 |---|---|---|
 | Create | `Add(person)` | Ny bruger får nyt `Person_Id`, gemmes i fil |
@@ -82,7 +82,7 @@ Vi tester i 3 lag:
 
 ---
 
-## Ækvivalensklasser (Equivalence Classes)
+## Ækvivalensklasser
 
 ### 1) Name (First_Name, Last_Name)
 Regler i kode:
@@ -160,7 +160,7 @@ Fokus på værdier lige ved grænserne:
 
 ---
 
-## Decision Table Test (kombinationer af validering)
+## Decision Table Test
 Vi tester kombinationer af regler i `ValidatePerson()` uden at eksplodere i antal cases.
 
 Betingelser:
@@ -184,7 +184,7 @@ Forventning:
 
 ---
 
-## Cycle Process Test (persistens / livscyklus)
+## Cycle Process Test
 Målet er at bevise at `people.json` er primær storage og at data overlever programstop.
 
 Cycle definition:
@@ -239,14 +239,10 @@ Og en kort risikokommentar:
 
 ---
 
-## Screenshots (indsættes når tests er implementeret)
+## Screenshots
 - Screenshot af test-run (unit + integration)
 - Screenshot af tests med tydelige navne
 - Screenshot der viser `Given/When/Then` kommentarer og `risk:` kommentar
 
 ---
-
-## Noter / kendte forbedringer
-- `ValidateEnabled()` kan aldrig fejle med `bool` i C#. Hvis der ønskes validering af “ukendt”, skal `Enabled` være `bool?`.
-- Password gemmes i klartekst i JSON. I et rigtigt system bør det hashes og saltes før lagring.
 
