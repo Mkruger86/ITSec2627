@@ -7,18 +7,17 @@ Brugerobjekt:
 
 ---
 
-## Hvorfor det er smart at bruge en flat_file_db
-En flat-file DB (JSON i fil) kan være hensigtsmæssig når:
+## Hvorfor bruge en flad database?
+Kan være hensigtsmæssig når:
 - Datasættet er lille og simpelt.
 - Man vil undgå afhængighed af en database-server (ingen opsætning af SQL/PostgreSQL osv.).
 - Data skal være let at inspicere, flytte og versionere (filen kan ligge i et kendt katalog).
-- Man vil demonstrere persistens + CRUD hurtigt i et undervisningsprojekt.
 
-Begrænsninger:
+### Begrænsninger:
 - Ingen samtidighedskontrol (to processer kan skrive samtidig og overskrive hinanden).
 - Ingen transaktioner/rollback.
 - Potentielt datatab ved nedbrud midt i skrivning.
-- Password gemmes i klartekst (sikkerhedsrisiko).
+- Password gemmes umiddelbart i klartekst (sikkerhedsrisiko). Dette afhjælpes senere i opgaven.
 
 ---
 
