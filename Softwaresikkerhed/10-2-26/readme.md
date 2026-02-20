@@ -1,11 +1,10 @@
 # FlatFileRepo – Flat-file JSON brugerdatabase
-***Skrevet i C#, Testmiljøet under VS's indbyggede MSTest***
+Skrevet i C#.
+Testmiljø under VS's indbyggede MSTest
 
 ---
 
-# Teststrategi
-
-Brugerobjekt:
+## Brugerobjekt:
 `{person_id, first_name, last_name, address, street_number, password, enabled}`  
 (I koden: `Person_Id, First_Name, Last_Name, Address, Street_Number, Password, Enabled`)
 
@@ -24,6 +23,8 @@ Kan være hensigtsmæssig når:
 - Password gemmes umiddelbart i klartekst (sikkerhedsrisiko). Dette afhjælpes senere i opgaven.
 
 ---
+
+# Teststrategi
 
 ## System under test
 ### Data-model
