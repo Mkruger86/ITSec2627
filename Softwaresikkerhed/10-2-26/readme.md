@@ -14,8 +14,6 @@ Kan være hensigtsmæssig når:
 - Potentielt datatab ved nedbrud midt i skrivning.
 - Password gemmes umiddelbart i klartekst (sikkerhedsrisiko). Dette afhjælpes senere i opgaven.
 
----
-
 ## System under test
 ### Data-model
 `PersonModel` med felter:
