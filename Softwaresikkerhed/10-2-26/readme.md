@@ -2,14 +2,6 @@
 Skrevet i C#.
 Testmiljø under VS's indbyggede MSTest
 
----
-
-## Brugerobjekt:
-`{person_id, first_name, last_name, address, street_number, password, enabled}`  
-(I koden: `Person_Id, First_Name, Last_Name, Address, Street_Number, Password, Enabled`)
-
----
-
 ## Hvorfor bruge en flad database?
 Kan være hensigtsmæssig når:
 - Datasættet er lille og simpelt.
