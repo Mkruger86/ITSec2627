@@ -208,16 +208,11 @@ Cycle definition:
 ---
 
 ## Test Cases (oversigt med Given/When/Then + risiko)
-Nedenfor er de testcases vi vil implementere. Hver test skal indeholde kommentarer:
-- `// given`
-- `// when`
-- `// then`
-
-Og en kort risikokommentar:
-- `// risk: ...`
+Nedenfor er de testcases der implementeres. De mere minitiøse detaljer, såsom testnavne, kan måske ændre sig i selve projektet,
+men selve risiko og hensigt er naturligvis gældende:
 
 ### Unit tests – PersonModel validering
-| Test-id | Testnavn (forslag) | Given | When | Then | Risiko hvis fejler |
+| Test-id | Testnavn (initielt) | Given | When | Then | Risiko hvis fejler |
 |---|---|---|---|---|---|
 | TC-N-01 | `ValidateName_FirstNameNull_ThrowsArgumentException` | First_Name = null | ValidateName | exception | Ugyldige brugere kan oprettes (manglende navn) |
 | TC-N-04 | `ValidateName_LengthWithinRange_DoesNotThrow` | længde 1..25 | ValidateName | ingen exception | Brugere kan fejlagtigt afvises |
@@ -238,11 +233,3 @@ Og en kort risikokommentar:
 | TC-CYCLE-01 | `Cycle_AddRestart_ReadStillExists` | tom fil | Add -> new repo -> GetAll | stadig der | Ingen persistens over restart |
 
 ---
-
-## Screenshots
-- Screenshot af test-run (unit + integration)
-- Screenshot af tests med tydelige navne
-- Screenshot der viser `Given/When/Then` kommentarer og `risk:` kommentar
-
----
-
